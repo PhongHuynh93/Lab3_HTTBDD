@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="action_settings">Settings</string>
+    <string name="calculator_app_name">Tinh tien</string>
+    <string name="tabs_app_name"> Toast windows</string>
+    <string name="amount_prompt">So tien</string>
+    <string name="discount_prompt">Giam gia</string>
+    <string name="code_prompt">Ma so</string>
+    <string name="discount_money_prompt">Tien giam gia</string>
+    <string name="payments_prompt">Tien phai tra</string>
+    <string name="total_payments_prompt">Tong Tien</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_Cal">CalculateActivity</string>
+</resources>
